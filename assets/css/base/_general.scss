@@ -1,0 +1,11 @@
+body {
+  background-color: var(--bg);
+  color: var(--color);
+  transition: background-color 0.3s;
+}
+a {
+  color: var(--color-primary);
+}
+.bg-white {
+  background-color: var(--bg-white);
+}

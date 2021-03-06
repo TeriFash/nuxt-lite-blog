@@ -1,0 +1,9 @@
+{
+  "read-more": "Read More",
+  "blog-title": "nuxt lite blog",
+  "published-at": "Published at:",
+  "blog-description": "Boilerplate for multilanguage Nuxt Blog using @nuxt/content + nuxt-i18n",
+  "blog-description-link": "Reade Blog",
+  "blog-last-articles": "Last articles",
+  "also-available-in": "Also available in"
+}

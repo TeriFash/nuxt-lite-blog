@@ -1,0 +1,64 @@
+{
+	"files": [
+		{
+			"path": "$ROOTPATH$/components/custom/FieldAutocomplete/FieldAutocomplete.vue",
+			"bookmarks": [
+				{
+					"line": 121,
+					"column": 0,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "$ROOTPATH$/components/custom/TextCropper/TextCropper.vue",
+			"bookmarks": [
+				{
+					"line": 49,
+					"column": 1,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "$ROOTPATH$/components/custom/CartInfo/CartInfo.vue",
+			"bookmarks": [
+				{
+					"line": 144,
+					"column": 1,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "$ROOTPATH$/components/custom/Tooltip/Tooltip.vue",
+			"bookmarks": [
+				{
+					"line": 74,
+					"column": 3,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "$ROOTPATH$/components/custom/MenuMain/MenuMain.js",
+			"bookmarks": [
+				{
+					"line": 135,
+					"column": 0,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "$ROOTPATH$/components/custom/Carousel/CarouselSlide.vue",
+			"bookmarks": [
+				{
+					"line": 28,
+					"column": 0,
+					"label": ""
+				}
+			]
+		}
+	]
+}

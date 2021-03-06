@@ -1,0 +1,17 @@
+{
+  "editor.formatOnSave": false,
+  "typescript.suggest.paths": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.validate": ["vue", "html", "javascript"],
+  "eslint.packageManager": "yarn",
+  // "beautify.language": {
+  //   "html": ["html"],
+  //   "css": [],
+  //   "js": []
+  // },
+  // "vetur.validation.template": true,
+  // "html.format.wrapAttributes": "force-aligned",
+  // "editor.formatOnSave": true
+}
